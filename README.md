@@ -51,14 +51,14 @@ ip_scanner.bat
 ```
 
 You will be prompted for:
-- the first three octets of the network, such as `192.168.1`
+- the first three octets of the network, such as `10.0.0`
 - the starting host octet
 - the ending host octet
 
 Example input:
 
 ```text
-Network prefix: 192.168.1
+Network prefix: 10.0.0
 Start host: 1
 End host: 25
 ```
