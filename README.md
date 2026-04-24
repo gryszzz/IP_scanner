@@ -8,8 +8,6 @@ It is designed for simple LAN troubleshooting and visibility, not stealth scanni
 
 ![IP Scanner demo preview](assets/ip-scanner-demo-preview.gif)
 
-[![Watch the full IP Scanner demo](assets/ip-scanner-demo-poster.png)](https://github.com/user-attachments/assets/6f44bfbb-f107-448d-80ae-f09952c9a99e)
-
 If GitHub mobile only shows the video as a link, tap the preview card above to open the full demo clip directly.
 
 ## What It Does
